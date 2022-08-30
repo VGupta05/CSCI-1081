@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-int main_2()
+int main()
 {
 	double character = 1;
 	double integer = 4;

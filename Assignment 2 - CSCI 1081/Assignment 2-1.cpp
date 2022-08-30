@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-int main_1()
+int main()
 {
 	double meal = 88.67;
 	double tax = meal * 0.0675;

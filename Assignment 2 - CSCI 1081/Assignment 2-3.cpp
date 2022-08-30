@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-int main_3()
+int main()
 {
 	double stock_price = 750 * 35;
 	double commission = stock_price * 0.02;

@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-int main_4()
+int main()
 {
 	double survey_count = 16500;
 	double energy_drinker = survey_count * 0.15;
