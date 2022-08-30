@@ -4,5 +4,16 @@ using namespace std;
 
 int main()
 {
+	double meal = 88.67;
+	double tax = meal * 0.0675;
+	double subtotal = meal + tax;
+	double tip = subtotal * 0.2;
+	double total = subtotal + tip;
 
+	cout << "Meal cost: " << meal << endl;
+	cout << "Tax: " << tax << endl;
+	cout << "Tip: " << tip << endl;
+	cout << "Total: " << total << endl;
+
+	return 0;
 }

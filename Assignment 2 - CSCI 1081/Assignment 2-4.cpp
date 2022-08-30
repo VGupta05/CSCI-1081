@@ -1,8 +1,5 @@
-#include <iostream>
-#include <iomanip>
-using namespace std;
-
-int main()
-{
-
-}
+//#include <iostream>
+//#include <iomanip>
+//using namespace std;
+//
+//int main()
